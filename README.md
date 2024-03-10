@@ -148,6 +148,4 @@ const allowedOrigins = ["http://localhost:3000", "https://example.address.com"];
 
 If you have any feedback, please reach out to me at [here](mailto:afthabiqbal123@gmail.com). Thank You ❤️.
 
-## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
